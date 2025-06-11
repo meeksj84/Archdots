@@ -2,9 +2,9 @@
 my hyprland build 
 To Do List for me (Lord help me)
 - build a install script (install config files and programs)
-- figure out how to commit my updates to my get repo
+- figure out how to commit my updates to my get repo useing zeditor or other editor
 - set up timeshift
-- configure SDDM from defult setting
+- move sddm-astronaut-theme to hypr/hyperland- dir and hope it doesn't break
 - set up and configure waybar (Hyde/archhyprdots are good examples)
 - update keybindings
 -   #update applauncher from mainMod r to mainMod a
