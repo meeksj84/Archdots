@@ -1,2 +1,0 @@
-# hyprland-
-my hyprland build 
