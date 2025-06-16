@@ -10,4 +10,10 @@ To Do List for me (Lord help me)
 - update keybindings
 -   #update applauncher from mainMod r to mainMod a
 - How to make a keybinding file and bind it to a key for quick look up for bindings. 
-- 
+- -how to git commit with zeditor 
+-set up time shift 
+-wallpaper manager  (hyprpaper then way paper )
+-Fastfetch - youtube.com/watch?v=4FkTNQwPZ58 / configure fastfetch logo switch. 
+-Change SDDM theme 
+-git commit 
+-set up way bar 
